@@ -1,2 +1,4 @@
-﻿  Main.cpp
+﻿  Recusrsion.cpp
+d:\programming\с++\algorithms\recursion\recursion\recusrsion.cpp(84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\programming\с++\algorithms\recursion\recursion\recusrsion.cpp(87): warning C4715: 'binary_convertor': not all control paths return a value
   Recursion.vcxproj -> D:\Programming\С++\Algorithms\Recursion\x64\Debug\Recursion.exe
